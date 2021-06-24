@@ -28,11 +28,12 @@ Installation
 
 ::
 
-    pip install experiment-utils
+    pip install -e git+https://github.com/mengsha-sun/experiment-utils.git#egg=experiment_utils
 
-You can also install the in-development version with::
+You can also install a specific version or branch with::
 
-    pip install https://github.com/mengsha-sun/experiment-utils/archive/master.zip
+    pip install git+https://github.com/mengsha-sun/experiment-utils.git@v1.0.0#egg=experiment_utils
+    pip install git+https://github.com/mengsha-sun/experiment-utils.git@master#egg=experiment_utils
 
 
 Documentation
