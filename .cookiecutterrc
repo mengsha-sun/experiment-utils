@@ -66,6 +66,6 @@ default_context:
     travis_osx:                'no'
     version:                   '0.0.0'
     version_manager:           'bump2version'
-    website:                   'https://blog.ionelmc.ro'
+    website:                   'https://github.com/mengsha-sun/'
     year_from:                 '2021'
     year_to:                   '2021'
